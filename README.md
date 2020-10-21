@@ -2,7 +2,7 @@
 
 I have always had an interest in changing the world through technology. 
 I have good communication skills to convey ideas clearly to the clients satisfaction. 
-Technically competent in problem solving and industry.
+Technically competent in problem solving and industry aware
 
 Below are some projects. I've been working on:
 1. **Angular-workoutApplication** -application that requires us to perform a set of 12 exercices in quick succession within the seven-minute time span.
