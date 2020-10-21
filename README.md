@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi my name is Christine Wanjiru and l am an Angular and Django Developer.
+
+I have always had an interest in changing the world through technology. I have good communication skills to convey ideas clearly to the clinets satisfaction. Technically competent in problem solving and industry aware because each project is undertaken with the most up-to-date relevant programming foundation available
 
 <!--
 **cwanjiru/cwanjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
