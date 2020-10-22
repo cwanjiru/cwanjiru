@@ -8,7 +8,8 @@ Below are some projects. I've been working on:
 1. **Angular-workoutApplication** -application that requires us to perform a set of 12 exercices in quick succession within the seven-minute time span.
 2. **django-onestop** -an eccomerce application that allows users to shop for products online.
 
-
+# Where to find me
+[LinkedIn](www.linkedin.com/in/christine-gacuiri)
 
 
 <!--
