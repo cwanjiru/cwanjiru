@@ -9,7 +9,7 @@ Below are some projects. I've been working on:
 2. **django-onestop** -an eccomerce application that allows users to shop for products online.
 
 # Where to find me
-[LinkedIn](www.linkedin.com/in/christine-gacuiri)
+[LinkedIn](https://www.linkedin.com/in/christine-gacuiri)
 
 
 <!--
