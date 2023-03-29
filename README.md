@@ -1,4 +1,4 @@
- Hi my name is *Christine Wanjiru* and l am an **Angular** and **Python/Django** Developer.
+ Hi my name is *Christine Wanjiru* and l am an **Angular**, **React** and **Python/Django** Developer.
 
 I have always had an interest in changing the world through technology. 
 I have good communication skills to convey ideas clearly to the clients satisfaction. 
